@@ -1,0 +1,7 @@
+/venv
+__pycache__
+testqqq/q.py
+
+testqqq/debug.log
+
+testqqq/__init__.py

@@ -1,0 +1,64 @@
+ansi2html==1.5.2
+apipkg==1.5
+attrs==20.2.0
+autopep8==1.5.4
+beautifulsoup4==4.9.3
+bs4==0.0.1
+certifi==2020.6.20
+chardet==3.0.4
+colorama==0.4.4
+configparser==5.0.0
+execnet==1.7.1
+freeze==3.0
+idna==2.10
+iniconfig==1.1.1
+json-tools==0.4.1
+more-itertools==8.5.0
+packaging==20.4
+passlib==1.7.2
+pluggy==0.13.1
+py==1.9.0
+pycodestyle==2.6.0
+pymssql==2.1.5
+pyparsing==2.4.7
+pytest==6.0.1
+pytest-forked==1.3.0
+pytest-html==2.1.1
+pytest-metadata==1.10.0
+pytest-reportlog==0.1.1
+pytest-testrail==2.9.0
+pytest-xdist==2.1.0
+python-i18n==0.3.9
+requests==2.24.0
+selenium==3.141.0
+six==1.15.0
+soupsieve==2.0.1
+toml==0.10.1
+urllib3==1.25.11
+tabula-py== 2.2.0
+
+
+
+#pdf
+pip3 install tabula-py
+pip3 install pandas
+
+#excel
+pip3 install openpyxl
+
+#ini file
+pip3 install configparser
+
+#DB
+pip3 install psycopg2
+
+pip3 install selenium
+
+#API
+pip3 install requests
+
+#gmail
+pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+
+pip install beautifulsoup4
+
