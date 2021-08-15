@@ -292,7 +292,7 @@ class GmailReceiver():
 if "__main__" == __name__:
 
     o = GmailReceiver("sit")
-    html = o.get_gmail_html(msg_to="ogtest.sit+1028180758769889@gmail.com",
+    html = o.get_gmail_html(msg_to="@gmail.com",
                             msg_subject="[sit]platform - invitation")
 
     print(html)
